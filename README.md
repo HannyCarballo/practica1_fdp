@@ -1,2 +1,2 @@
 # practica1_fdp
-![ingeniero](https://user-images.githubusercontent.com/89166148/168668597-f2c8daed-c46d-4256-9ac3-825fd4ad407b.jpg)
+<img width="300" alt="image" src="https://st2.depositphotos.com/1037238/12408/v/450/depositphotos_124085934-stock-illustration-man-working-in-front-of.jpg">
